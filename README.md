@@ -1,4 +1,4 @@
-# Nanopore sequencing processing and assembly
+# Klebsiella pneumoniae KPC pre- and post-treatment sample nanopore sequencing processing and assembly protocol
 
 
 
